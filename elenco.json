@@ -1,0 +1,12 @@
+{
+  "formato": 1,
+  "ultima": "0.9.2",
+  "minima_per_aggiornarsi": "0.9.2",
+  "pubblicata": "2026-09-16",
+  "note": "I micro-settori: il giro diviso curva per curva invece che nei tre settori del gioco (per ora c'e' Monza). Piu' il giro teorico, i primati personali, e l'aggiornamento automatico.",
+  "pacchetto": {
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.2.exe",
+    "byte": 45549093,
+    "impronta_sha256": "23d34c87863cc94d50a6a940d3a77ee78390710faf19a002c5e6fea8427d9468"
+  }
+}
