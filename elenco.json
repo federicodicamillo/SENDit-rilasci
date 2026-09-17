@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.3",
+  "ultima": "0.9.4",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-09-16",
-  "note": "Il marchio nuovo: la scritta disegnata da Vincenzo al posto di quella cromata, la S come icona dell'app, e la scritta dentro i pulsanti di conferma. Il motore non cambia.",
+  "pubblicata": "2026-09-17",
+  "note": "Tre correzioni, viste usando l'aggiornamento automatico per la prima volta. L'avviso di versione nuova parla in modo piu' asciutto; non compare piu' la finestra nera alla chiusura; l'icona sul desktop e nel menu Start si aggiorna come deve. Il motore non cambia. (La finestra nera si vedra' ancora QUESTA volta: a lanciare l'installatore e' la versione vecchia. Dalla prossima non piu'.)",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.3.exe",
-    "byte": 45332650,
-    "impronta_sha256": "494f0f370ec20a9c5b5a2fac0765e53055dcdcd886f9bff89d761326d876ac20"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.4.exe",
+    "byte": 45338795,
+    "impronta_sha256": "6542b42c08ae3a30cd43b8d97b1c220dfcda7c3bae4efaa83d3b5736a1d221e5"
   }
 }
