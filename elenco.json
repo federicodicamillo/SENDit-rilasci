@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.4",
+  "ultima": "0.9.5",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-09-17",
-  "note": "Tre correzioni, viste usando l'aggiornamento automatico per la prima volta. L'avviso di versione nuova parla in modo piu' asciutto; non compare piu' la finestra nera alla chiusura; l'icona sul desktop e nel menu Start si aggiorna come deve. Il motore non cambia. (La finestra nera si vedra' ancora QUESTA volta: a lanciare l'installatore e' la versione vecchia. Dalla prossima non piu'.)",
+  "pubblicata": "2026-09-18",
+  "note": "Registrazione: risolto il difetto per cui il programma poteva restare fermo su \"aspetto che il gioco finisca di caricare\" e non registrare niente per tutta la serata. E se qualcosa si incanta lo stesso, adesso ogni mezzo minuto rifa' il collegamento col gioco da solo.\n\nRisolta la mappa del giro sbagliata in qualifica e in gara: il programma leggeva la posizione di un'altra auto, spesso una ferma ai box. Tempi, settori e micro-settori non sono mai stati toccati.\n\nLa minimappa adesso e' la forma fissa del circuito e non il giro che stai guardando: niente piu' pezzi di pista scoloriti.\n\nRisolto: il programma poteva chiudersi di colpo mentre leggeva l'elenco delle sessioni. \"Le mie sessioni\" ora si aggiorna da sola quando finisci di registrare. E sparisce la finestra nera alla chiusura.\n\nDa adesso il programma tiene un diario di quello che fa, in diario.txt dentro la cartella dei dati: se una sessione non compare, quel file dice cosa e' successo.\n\nAl primo avvio le mappe dei circuiti vengono rifatte, quindi la prima apertura di un circuito ci mette un attimo in piu'.\n\nIl racconto per esteso e' nelle note del rilascio su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.4.exe",
-    "byte": 45338795,
-    "impronta_sha256": "6542b42c08ae3a30cd43b8d97b1c220dfcda7c3bae4efaa83d3b5736a1d221e5"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.5.exe",
+    "byte": 45347744,
+    "impronta_sha256": "2347315e2341136349f7adcf04d0e35fcf0b0eed79d499c7aad079036b0f6004"
   }
 }
