@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.6",
+  "ultima": "0.9.7",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-09-20",
-  "note": "Registrazione: quando un server online riavvia la sessione, adesso SENDit apre una registrazione nuova invece di continuare nella stessa. E i minuti \"senza dati\" dichiarati da una sessione non sono piu' gonfiati da quelle registrate prima.\n\nMicro-settori: tre circuiti nuovi, Nurburgring GP, Indianapolis e Imola. Con Monza diventano quattro.\n\nIl racconto per esteso e' nelle note del rilascio su GitHub.",
+  "pubblicata": "2026-09-21",
+  "note": "Grafici: il grafico dello sterzo adesso e' specchiato, sopra lo zero le curve a sinistra e sotto quelle a destra. Il dato registrato non cambia.\n\nMicro-settori: tre circuiti nuovi, Silverstone, Zolder e Misano: con Monza, Imola, Indianapolis e il Nurburgring diventano sette. Nella mappa grande i numeri di fianco a ogni bollino adesso parlano del tuo giro di riferimento: \"-0.180 B\" vuol dire che su quel tratto sei piu' veloce di B di 0,180.\n\nConfronti: i giri adesso si sovrappongono a partire dalla linea del cronometro, su qualunque pista. A Silverstone il gioco comincia a contare la posizione un centinaio di metri dopo il traguardo, e quel pezzo di giro finiva fuori dal confronto e fuori dalla mappa. E se in un giro il gioco perde la posizione dell'auto, quel giro non si disegna e la pagina spiega perche': i suoi tempi restano buoni.\n\nAl primo avvio le mappe dei circuiti vengono rifatte, quindi la prima apertura di un circuito ci mette un attimo in piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.6.exe",
-    "byte": 45350138,
-    "impronta_sha256": "18b05c900f4add0474fc9ec97c6e674d1c19a3cda23636ffeb4e4f4a620d49c1"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.7.exe",
+    "byte": 45367481,
+    "impronta_sha256": "9e2f7e94b0cce9b9d014bc9671eb41a020fb6998afb04e049cec5647c174307b"
   }
 }
