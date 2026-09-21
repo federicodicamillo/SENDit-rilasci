@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.7",
+  "ultima": "0.9.8",
   "minima_per_aggiornarsi": "0.9.2",
   "pubblicata": "2026-09-21",
-  "note": "Grafici: il grafico dello sterzo adesso e' specchiato, sopra lo zero le curve a sinistra e sotto quelle a destra. Il dato registrato non cambia.\n\nMicro-settori: tre circuiti nuovi, Silverstone, Zolder e Misano: con Monza, Imola, Indianapolis e il Nurburgring diventano sette. Nella mappa grande i numeri di fianco a ogni bollino adesso parlano del tuo giro di riferimento: \"-0.180 B\" vuol dire che su quel tratto sei piu' veloce di B di 0,180.\n\nConfronti: i giri adesso si sovrappongono a partire dalla linea del cronometro, su qualunque pista. A Silverstone il gioco comincia a contare la posizione un centinaio di metri dopo il traguardo, e quel pezzo di giro finiva fuori dal confronto e fuori dalla mappa. E se in un giro il gioco perde la posizione dell'auto, quel giro non si disegna e la pagina spiega perche': i suoi tempi restano buoni.\n\nAl primo avvio le mappe dei circuiti vengono rifatte, quindi la prima apertura di un circuito ci mette un attimo in piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
+  "note": "Confronti: riparati i grafici della Comparazione a Silverstone e su alcuni giri di Monza. Nel primo settore velocita', gas e freno venivano disegnati come una riga dritta sopra un tratto mancante: la staccata di Abbey sembrava fatta a gas pieno. Il delta e i tempi non erano toccati. E a Silverstone tutti i giri hanno di nuovo la loro traiettoria.\n\nComparazione: il giro che stai analizzando adesso e' segnato FOCUS (prima RIF). Le curve del delta sono tratteggiate dei due colori dei giri confrontati: il colore dice chi confronti con chi, il segno dice chi e' piu' veloce (negativo, il giro in focus e' piu' veloce). La tendina dei giri della casella C si apre subito, anche su un circuito con una sessione sola.\n\nMicro-settori: la mappa grande e' sempre la stessa, qualunque giro sia in focus, e coi tre giri accesi i numeri di fianco ai bollini non si accavallano piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.7.exe",
-    "byte": 45367481,
-    "impronta_sha256": "9e2f7e94b0cce9b9d014bc9671eb41a020fb6998afb04e049cec5647c174307b"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.8.exe",
+    "byte": 45426281,
+    "impronta_sha256": "ac20bfd39b2c88e714afa4d5e8e7ba4348faeebcc8e8c12d1768daced70c1670"
   }
 }
