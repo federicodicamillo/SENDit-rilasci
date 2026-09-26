@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.8",
+  "ultima": "0.9.9",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-09-21",
-  "note": "Confronti: riparati i grafici della Comparazione a Silverstone e su alcuni giri di Monza. Nel primo settore velocita', gas e freno venivano disegnati come una riga dritta sopra un tratto mancante: la staccata di Abbey sembrava fatta a gas pieno. Il delta e i tempi non erano toccati. E a Silverstone tutti i giri hanno di nuovo la loro traiettoria.\n\nComparazione: il giro che stai analizzando adesso e' segnato FOCUS (prima RIF). Le curve del delta sono tratteggiate dei due colori dei giri confrontati: il colore dice chi confronti con chi, il segno dice chi e' piu' veloce (negativo, il giro in focus e' piu' veloce). La tendina dei giri della casella C si apre subito, anche su un circuito con una sessione sola.\n\nMicro-settori: la mappa grande e' sempre la stessa, qualunque giro sia in focus, e coi tre giri accesi i numeri di fianco ai bollini non si accavallano piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
+  "pubblicata": "2026-09-26",
+  "note": "SENDit si apre su una pagina nuova: la HOME, col tuo profilo a sinistra e i riquadri di tutto il resto. L'elenco delle sessioni resta nel menu.\n\nLa patente: un grado per ogni pista (platinum, gold, silver, bronze) dal tuo giro migliore fatto in condizioni confrontabili, aria almeno 23 gradi e asfalto almeno 27. Dove le soglie non ci sono ancora il programma lo dice, invece di inventare un grado.\n\nIl profilo: foto, nome, numero di gara, nazionalita', team e i collegamenti a LFM e SimGrid. Il vecchio \"Chi sono io\" e' diventato il nome nel gioco e si e' spostato qui da solo.\n\nIl calendario con gare, prequalifiche, allenamenti e scadenze, e un riquadro che dice se la lobby di ACC e' in piedi. E i colori sono tuoi: premi Personalizza sulla home, o apri la scheda COLORI DELL'APP nel profilo.\n\nLe temperature di ogni giro adesso le scrive il programma mentre registra, cosi' i giri che valgono per la patente non si perdono piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.8.exe",
-    "byte": 45426281,
-    "impronta_sha256": "ac20bfd39b2c88e714afa4d5e8e7ba4348faeebcc8e8c12d1768daced70c1670"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.9.exe",
+    "byte": 46116639,
+    "impronta_sha256": "763c43980e8a3fd9f9e6215388094b9faf9e1950b93265d8645ba7ddb6e383ee"
   }
 }
