@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "0.9.9",
+  "ultima": "1.0",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-09-26",
-  "note": "SENDit si apre su una pagina nuova: la HOME, col tuo profilo a sinistra e i riquadri di tutto il resto. L'elenco delle sessioni resta nel menu.\n\nLa patente: un grado per ogni pista (platinum, gold, silver, bronze) dal tuo giro migliore fatto in condizioni confrontabili, aria almeno 23 gradi e asfalto almeno 27. Dove le soglie non ci sono ancora il programma lo dice, invece di inventare un grado.\n\nIl profilo: foto, nome, numero di gara, nazionalita', team e i collegamenti a LFM e SimGrid. Il vecchio \"Chi sono io\" e' diventato il nome nel gioco e si e' spostato qui da solo.\n\nIl calendario con gare, prequalifiche, allenamenti e scadenze, e un riquadro che dice se la lobby di ACC e' in piedi. E i colori sono tuoi: premi Personalizza sulla home, o apri la scheda COLORI DELL'APP nel profilo.\n\nLe temperature di ogni giro adesso le scrive il programma mentre registra, cosi' i giri che valgono per la patente non si perdono piu'.\n\nIl racconto per esteso e' nelle note dei rilasci su GitHub.",
+  "pubblicata": "2026-10-04",
+  "note": "SENDit 1.0 - il tuo account, e il team sul server.\n\nAl primo avvio ti registri con email e password, poi SENDit entra da solo ogni volta. La password non resta sul computer. Senza internet si apre lo stesso.\n\nI piani sono FREE, PRO e TEAM MANAGER: le pagine PRO hanno il lucchetto e le puoi aprire per vedere cosa c'e'. Il tuo profilo - foto, nome, numero, nazionalita' - ti segue su qualunque computer.\n\nLa pagina Team e' nuova, a riquadri come la home: membri, gruppi, calendario del team, setup e livree che si installano con un clic, e sessioni condivise. Il manager sceglie logo e colori del team.\n\nLe tue sessioni adesso si riconoscono dal nome e cognome del profilo, non piu' dal \"nome nel gioco\": controlla che nel profilo siano scritti giusti.\n\nMicro-settori: due piste nuove, Suzuka e Barcellona. Nove in tutto.\n\nLe note delle versioni precedenti sono su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-0.9.9.exe",
-    "byte": 46116639,
-    "impronta_sha256": "763c43980e8a3fd9f9e6215388094b9faf9e1950b93265d8645ba7ddb6e383ee"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-1.0.exe",
+    "byte": 46598362,
+    "impronta_sha256": "f289754e5d4be87b2ba44c4de04ed579ee7de128bec936aab912f2bb320a0793"
   }
 }
