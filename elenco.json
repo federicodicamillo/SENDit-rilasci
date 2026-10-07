@@ -1,12 +1,12 @@
 {
   "formato": 1,
-  "ultima": "1.0",
+  "ultima": "1.1",
   "minima_per_aggiornarsi": "0.9.2",
-  "pubblicata": "2026-10-04",
-  "note": "SENDit 1.0 - il tuo account, e il team sul server.\n\nAl primo avvio ti registri con email e password, poi SENDit entra da solo ogni volta. La password non resta sul computer. Senza internet si apre lo stesso.\n\nI piani sono FREE, PRO e TEAM MANAGER: le pagine PRO hanno il lucchetto e le puoi aprire per vedere cosa c'e'. Il tuo profilo - foto, nome, numero, nazionalita' - ti segue su qualunque computer.\n\nLa pagina Team e' nuova, a riquadri come la home: membri, gruppi, calendario del team, setup e livree che si installano con un clic, e sessioni condivise. Il manager sceglie logo e colori del team.\n\nLe tue sessioni adesso si riconoscono dal nome e cognome del profilo, non piu' dal \"nome nel gioco\": controlla che nel profilo siano scritti giusti.\n\nMicro-settori: due piste nuove, Suzuka e Barcellona. Nove in tutto.\n\nLe note delle versioni precedenti sono su GitHub.",
+  "pubblicata": "2026-10-07",
+  "note": "SENDit 1.1 - i gruppi del team, in ordine.\n\nIl team si organizza ad albero: simulatore, categoria (GT3, GT4...), campionato, split, equipaggio. Ognuno accende le sue categorie da \"Le mie categorie\" e vede i campionati e i gruppi di quelle.\n\n\"+ Campionato\", \"+ Gruppo\", \"+ Split\", \"+ Equipaggio\" aprono una creazione guidata: categoria, nome, piloti (si trascinano le figurine), capogruppo, calendario e riepilogo. I passi di cui non sai ancora niente li salti, e li fai dopo.\n\nUn campionato puo' correre su piu' categorie, con una classe per categoria. In ogni campionato scegli la tua auto, e per una tappa la puoi cambiare: i compagni la vedono sulla tua figurina.\n\nNella pagina di un gruppo c'e' il suo storico di setup e livree, con \"Installa\". Nel dettaglio di una tappa, \"Per questa tappa\" raccoglie tutto quello che le arriva, e lo filtri per la tua auto o per il circuito. Puoi caricare tanti setup in una volta, anche le livree non zippate.\n\nIn un campionato della tua categoria in cui non sei, \"Chiedi di entrare\": la regia o il capogruppo accettano. Inviti e richieste stanno in un riquadro solo, per tutti.\n\nOgni evento dice il simulatore e il circuito, e a quali gruppi arriva.\n\nLe note delle versioni precedenti sono su GitHub.",
   "pacchetto": {
-    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-1.0.exe",
-    "byte": 46598362,
-    "impronta_sha256": "f289754e5d4be87b2ba44c4de04ed579ee7de128bec936aab912f2bb320a0793"
+    "url": "https://github.com/federicodicamillo/SENDit-rilasci/raw/main/pacchetti/SENDit-setup-1.1.exe",
+    "byte": 46777951,
+    "impronta_sha256": "2b6400c946684d29de2cee2cc411d23b07eba502a57182206fe5bcc3bd05a52d"
   }
 }
